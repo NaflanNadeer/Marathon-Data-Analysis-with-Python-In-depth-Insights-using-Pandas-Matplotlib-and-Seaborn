@@ -13,9 +13,9 @@ Key Features
 * Data Cleaning: Prepares raw marathon data by handling missing values and standardizing formats.
 * Exploratory Data Analysis (EDA): Reveals insights through statistical summaries and visual explorations.
 * Visualizations: Engaging charts that illustrate patterns, including:
-    -Finish time distributions across age groups and gender.
-    -Pace-to-finish time correlations.
-    -Demographic insights into performance variations.
+    1. Finish time distributions across age groups and gender.
+    2. Pace-to-finish time correlations.
+    3. Demographic insights into performance variations.
 
 How to Use
 1. Clone the repository
